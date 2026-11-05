@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nuvistineglobal.vercel.app/sitemap.xml
