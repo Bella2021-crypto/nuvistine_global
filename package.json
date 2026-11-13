@@ -1,0 +1,21 @@
+{
+  "name": "nuvistine-global",
+  "version": "1.0.0",
+  "description": "Nuvistine Global - Personal Shopping from Lagos, Nigeria",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Static site - no build step required'",
+    "lint": "echo 'No linting configured for static HTML'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "personal-shopping",
+    "nigeria",
+    "ecommerce"
+  ],
+  "author": "Nuvistine Global",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
